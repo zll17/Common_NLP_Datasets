@@ -1739,54 +1739,6 @@ NLP Datasets Collection, for self-use.
 
 
 
-#### 数据集名称
-
-- 数据样例
-
-  ```
-  __newId__12
-  ```
-
-- 文件结构
-
-  ```
-  _train.json
-  ```
-
-- 数据类型：新闻类
-
-- 用途：文本分类
-
-- 来源：[Link](https://tbd.com) 
-
-- 镜像：[Link](https://tbd.com)
-
-
-
-#### 数据集名称
-
-- 数据样例
-
-  ```
-  __newId__12
-  ```
-
-- 文件结构
-
-  ```
-  _train.json
-  ```
-
-- 数据类型：新闻类
-
-- 用途：文本分类
-
-- 来源：[Link](https://tbd.com) 
-
-- 镜像：[Link](https://tbd.com)
-
-
-
 #### NIPS-papers
 
 - 数据样例
@@ -1991,7 +1943,7 @@ NLP Datasets Collection, for self-use.
 
 
 
-#### 数据集名称
+#### Reuters
 
 - 数据样例
 
@@ -2036,7 +1988,7 @@ NLP Datasets Collection, for self-use.
 
 
 
-#### 数据集名称
+#### Scripta-sinica (汉语古典文本数据库)
 
 - 数据样例
 
@@ -2398,7 +2350,7 @@ NLP Datasets Collection, for self-use.
 
 
 
-#### 数据集名称
+#### WebQA (百度知道中文问答数据集)
 
 - 数据样例
 
@@ -2509,7 +2461,7 @@ NLP Datasets Collection, for self-use.
 
 
 
-#### 数据集名称
+#### 豆瓣800万影评数据集
 
 - 数据样例
 
@@ -2628,29 +2580,19 @@ NLP Datasets Collection, for self-use.
 
   ```
   +---百科
-  | +---亿建速购专版纯净版
-  | | +---使用文本.txt
-  | | +---火车头采集器v7.6
-  | +---亿建速购专版纯净版.zip
   | +---山西晚报1.xlsx
   | +---山西晚报10.xlsx
   | +---山西晚报2.xlsx
   | +---深圳商报9.xlsx
   | +---... 
-  | +---火车头闪退解决方法
-  | | +---Windows
-  | | +---使用说明.txt
-  | +---火车头闪退解决方法.rar
-  | +---百度百科-规则.ljobx
   | +---百科数据1
   | +---百科数据2
-  | | +---2to3.py
   | | +---百度百科-规则.xls
   | | +---百度百科-规则7760000-7779999.xls
   | | +---百度百科-规则8220000-8239999.xls
   | | +---...
   ```
-
+  
 - 数据类型：微博新闻
 
 - 用途：语言模型，主题模型
@@ -2702,7 +2644,7 @@ NLP Datasets Collection, for self-use.
       },
       ...
   ]
-    ```
+  ```
 
 - 文件结构
 
@@ -2762,7 +2704,7 @@ NLP Datasets Collection, for self-use.
 
 - 用途：语言模型
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[汉语古典文本数据库](https://github.com/mahavivo/scripta-sinica) 
 
 - 镜像：[Link](https://tbd.com)
 
@@ -2780,7 +2722,6 @@ NLP Datasets Collection, for self-use.
   同胞们、朋友们、女士们、先生们：
   在１９９８年来临之际，我十分高兴地通过中央人民广播电台、中国国际广播电台和中央电视台，向全国各族人民，向香港特别行政区同胞、澳门和台湾同胞、海外侨胞，向世界各国的朋友们，致以诚挚的问候和良好的祝愿！
 
-
   19980101-01-001-001/m  迈向/v  充满/v  希望/n  的/u  新/a  世纪/n  ——/w  一九九八年/t  新年/t  讲话/n  （/w  附/v  图片/n  １/m  张/q  ）/w  
   19980101-01-001-002/m  中共中央/nt  总书记/n  、/w  国家/n  主席/n  江/nr  泽民/nr  
   19980101-01-001-003/m  （/w  一九九七年/t  十二月/t  三十一日/t  ）/w  
@@ -2788,10 +2729,10 @@ NLP Datasets Collection, for self-use.
   19980101-01-001-005/m  同胞/n  们/k  、/w  朋友/n  们/k  、/w  女士/n  们/k  、/w  先生/n  们/k  ：/w  
   19980101-01-001-006/m  在/p  １９９８年/t  来临/v  之际/f  ，/w  我/r  十分/m  高兴/a  地/u  通过/p  [中央/n  人民/n  广播/vn  电台/n]nt  、/w  [中国/ns  国际/n  广播/vn  电台/n]nt  和/c  [中央/n  电视台/n]nt  ，/w  向/p  全国/n  各族/r  人民/n  ，/w  向/p  [香港/ns  特别/a  行政区/n]ns  同胞/n  、/w  澳门/ns  和/c  台湾/ns  同胞/n  、/w  海外/s  侨胞/n  ，/w  向/p  世界/n  各国/r  的/u  朋友/n  们/k  ，/w  致以/v  诚挚/a  的/u  问候/vn  和/c  良好/a  的/u  祝愿/vn  ！/w  
   ```
-
+  
 - 文件结构
 
-  ```
+	```
   +---人民日报1998
   | +---词性标注@人民日报199801.txt
   | +---remindaily_lines.txt
@@ -2805,5 +2746,4 @@ NLP Datasets Collection, for self-use.
 - 来源：[Link](https://tbd.com) 
 
 - 镜像：[Link](https://tbd.com)
-
 
