@@ -4,8 +4,9 @@ NLP Datasets Collection, for self-use.
 
 
 
+</details>
 
-#### 20news-bydate
+<details><summary>####  20news-bydate</summary>
 
 - 数据样例
 
@@ -49,8 +50,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### ACL_Anthology_Reference_Corpus
+<details><summary>####  ACL_Anthology_Reference_Corpus</summary>
 
 - 数据样例
 
@@ -76,8 +78,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### aclImdb_v1
+<details><summary>####  aclImdb_v1</summary>
 
 - 数据样例
 
@@ -114,8 +117,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### amazon_review_polarity_csv
+<details><summary>####  amazon_review_polarity_csv</summary>
 
 - 数据样例
 
@@ -143,8 +147,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### ancient_chinese
+<details><summary>####  ancient_chinese</summary>
 
 - 数据样例
 
@@ -183,8 +188,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### baike2018qa
+<details><summary>####  baike2018qa</summary>
 
 - 数据样例
 
@@ -215,8 +221,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### bert_poem
+<details><summary>####  bert_poem</summary>
 
 - 数据样例
 
@@ -245,8 +252,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### books-master
+<details><summary>####  books-master</summary>
 
 - 数据样例
 
@@ -277,8 +285,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### bytecup2018
+<details><summary>####  bytecup2018</summary>
 
 - 数据样例
 
@@ -312,8 +321,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### CA8词向量
+<details><summary>####  CA8词向量</summary>
 
 - 数据样例
 
@@ -351,8 +361,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### chat_corpus-master
+<details><summary>####  chat_corpus-master</summary>
 
 - 数据样例
 
@@ -390,8 +401,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### Chinese-NLP-Corpus-master
+<details><summary>####  Chinese-NLP-Corpus-master</summary>
 
 - 数据样例
 
@@ -431,8 +443,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### ChineseSquad-master
+<details><summary>####  ChineseSquad-master</summary>
 
 
 - 数据样例
@@ -498,8 +511,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### cmrc2018-master
+<details><summary>####  cmrc2018-master</summary>
 
 - 数据样例
 
@@ -572,8 +586,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### cmrc2019-master
+<details><summary>####  cmrc2019-master</summary>
 
 
 - 数据样例
@@ -642,8 +657,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### cnews
+<details><summary>####  cnews</summary>
 
 
 - 数据样例
@@ -698,8 +714,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### DA_data
+<details><summary>####  DA_data</summary>
 
 
 - 数据样例
@@ -745,8 +762,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### DAct
+<details><summary>####  DAct</summary>
 
 - 数据样例
 
@@ -785,8 +803,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### daizhigev20-master
+<details><summary>####  daizhigev20-master</summary>
 
 - 数据样例
 
@@ -839,8 +858,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### Douban_Movie_Short_Comments
+<details><summary>####  Douban_Movie_Short_Comments</summary>
 
 
 - 数据样例
@@ -870,8 +890,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### DoubanConversaionCorpus
+<details><summary>####  DoubanConversaionCorpus</summary>
 
 
 - 数据样例
@@ -899,8 +920,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### DouBanCrawls-master
+<details><summary>####  DouBanCrawls-master</summary>
 
 - 数据样例
 
@@ -936,8 +958,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### DouBanSpider-master
+<details><summary>####  DouBanSpider-master</summary>
 
 - 数据样例
 
@@ -967,8 +990,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### DRCD 台达繁体阅读理解数据集-master
+<details><summary>####  DRCD 台达繁体阅读理解数据集-master</summary>
 
 - 数据样例
 
@@ -1040,8 +1064,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### dureader_preprocessed
+<details><summary>####  dureader_preprocessed</summary>
 
 - 数据样例
 
@@ -1106,8 +1131,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### duzhen
+<details><summary>####  duzhen</summary>
 
 - 数据样例
 
@@ -1182,8 +1208,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### ECDICT-中英双解词典数据库master
+<details><summary>####  ECDICT-中英双解词典数据库master</summary>
 
 - 数据样例
 
@@ -1240,8 +1267,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### OpenSubtitles_EN_ZH
+<details><summary>####  OpenSubtitles_EN_ZH</summary>
 
 
 - 数据样例
@@ -1282,8 +1310,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### FinancialDatasets-master
+<details><summary>####  FinancialDatasets-master</summary>
 
 - 数据样例
 
@@ -1319,8 +1348,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### glue_data
+<details><summary>####  glue_data</summary>
 
 - 数据样例
 
@@ -1408,8 +1438,9 @@ NLP Datasets Collection, for self-use.
 
 - 镜像：[Link](https://tbd.com)
 
+</details>
 
-#### GoogleNews-vectors-negative300
+<details><summary>####  GoogleNews-vectors-negative300</summary>
 
 - 数据样例
 
@@ -1436,8 +1467,9 @@ NLP Datasets Collection, for self-use.
 
 - 镜像：[Link](https://tbd.com)
 
+</details>
 
-#### huawei_corpus
+<details><summary>####  huawei_corpus</summary>
 
 - 数据样例
 
@@ -1524,8 +1556,9 @@ NLP Datasets Collection, for self-use.
 
 - 镜像：[Link](https://tbd.com)
 
+</details>
 
-#### IMDB_Movie_5K
+<details><summary>####  IMDB_Movie_5K</summary>
 
 - 数据样例
 
@@ -1549,8 +1582,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 ----
+</details>
 
-#### ACL_Anthology_Reference_Corpus
+<details><summary>####  ACL_Anthology_Reference_Corpus</summary>
 
 - 数据样例
 
@@ -1576,8 +1610,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### IMDB_Movie_5K
+<details><summary>####  IMDB_Movie_5K</summary>
 
 - 数据样例
 
@@ -1601,8 +1636,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### Douban_Movie_10M
+<details><summary>####  Douban_Movie_10M</summary>
 
 - 数据样例
 
@@ -1633,8 +1669,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### latex_src-hep-th-1992
+<details><summary>####  latex_src-hep-th-1992</summary>
 
 - 数据样例
 
@@ -1663,8 +1700,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### LCCC Chinese Conversation Corpus
+<details><summary>####  LCCC Chinese Conversation Corpus</summary>
 
 - 数据样例
 
@@ -1708,8 +1746,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### news2016zh
+<details><summary>####  news2016zh</summary>
 
 - 数据样例
 
@@ -1732,8 +1771,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### NIPS-papers
+<details><summary>####  NIPS-papers</summary>
 
 - 数据样例
 
@@ -1758,8 +1798,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### Novel_Corpus
+<details><summary>####  Novel_Corpus</summary>
 
 - 数据样例
 
@@ -1799,8 +1840,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### OpenSubtitles_EN_ZH
+<details><summary>####  OpenSubtitles_EN_ZH</summary>
 
 - 数据样例
 
@@ -1865,8 +1907,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### Chinese_chatbot_corpus
+<details><summary>####  Chinese_chatbot_corpus</summary>
 
 - 数据样例
 
@@ -1936,8 +1979,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### Reuters
+<details><summary>####  Reuters</summary>
 
 - 数据样例
 
@@ -1981,8 +2025,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### Scripta-sinica (汉语古典文本数据库)
+<details><summary>####  Scripta-sinica (汉语古典文本数据库)</summary>
 
 - 数据样例
 
@@ -2057,8 +2102,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### SMSSpamCollection
+<details><summary>####  SMSSpamCollection</summary>
 
 - 数据样例
 
@@ -2095,8 +2141,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### 163_song_records
+<details><summary>####  163_song_records</summary>
 
 - 数据样例
 
@@ -2150,8 +2197,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### AgNews
+<details><summary>####  AgNews</summary>
 
 - 数据样例
 
@@ -2188,8 +2236,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### THUCNews-title
+<details><summary>####  THUCNews-title</summary>
 
 - 数据样例
 
@@ -2231,8 +2280,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### Toutial-text-classification
+<details><summary>####  Toutial-text-classification</summary>
 
 - 数据样例
 
@@ -2264,8 +2314,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### translation2019_en-zh
+<details><summary>####  translation2019_en-zh</summary>
 
 - 数据样例
 
@@ -2294,8 +2345,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### TV4Dialog
+<details><summary>####  TV4Dialog</summary>
 
 - 数据样例
 
@@ -2343,8 +2395,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### WebQA (百度知道中文问答数据集)
+<details><summary>####  WebQA (百度知道中文问答数据集)</summary>
 
 - 数据样例
 
@@ -2378,8 +2431,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### Weibo
+<details><summary>####  Weibo</summary>
 
 - 数据样例
 
@@ -2407,8 +2461,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### wiki_zh
+<details><summary>####  wiki_zh</summary>
 
 - 数据样例
 
@@ -2454,8 +2509,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### 豆瓣800万影评数据集
+<details><summary>####  豆瓣800万影评数据集</summary>
 
 - 数据样例
 
@@ -2490,8 +2546,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### zhihu_webtext2019zh
+<details><summary>####  zhihu_webtext2019zh</summary>
 
 - 数据样例
 
@@ -2519,8 +2576,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### zhihu-question
+<details><summary>####  zhihu-question</summary>
 
 - 数据样例
 
@@ -2561,8 +2619,9 @@ NLP Datasets Collection, for self-use.
 
 - 镜像：[Link](https://tbd.com)
 
+</details>
 
-#### 百科
+<details><summary>####  百科</summary>
 
 - 数据样例
 
@@ -2594,8 +2653,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### 法研杯2020-阅读理解ydlj_small_data
+<details><summary>####  法研杯2020-阅读理解ydlj_small_data</summary>
 
 - 数据样例
 
@@ -2655,8 +2715,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### 汉语古典文本数据库
+<details><summary>####  汉语古典文本数据库</summary>
 
 - 数据样例
 
@@ -2701,8 +2762,9 @@ NLP Datasets Collection, for self-use.
 - 镜像：[Link](https://tbd.com)
 
 
+</details>
 
-#### 人民日报1998
+<details><summary>####  人民日报1998</summary>
 
 - 数据样例
 
