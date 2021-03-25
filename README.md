@@ -704,7 +704,7 @@ NLP Datasets Collection, for self-use.
 
 - 数据样例
 
-  ![sample data]("dataexample.png" "sample data")
+  ![sample data]("imgs/dataexample.png" "sample data")
 
 - 文件结构
 
@@ -904,8 +904,8 @@ NLP Datasets Collection, for self-use.
 
 - 数据样例
 
-  ![sample data]("reading_excel.jpg" "sample data")
-  ![sample data]("movie_excel.jpg" "sample data")
+  ![sample data]("imgs/reading_excel.jpg" "sample data")
+  ![sample data]("imgs/movie_excel.jpg" "sample data")
 
 - 文件结构
 
@@ -941,7 +941,7 @@ NLP Datasets Collection, for self-use.
 
 - 数据样例
 
-  ![sample data]("douban.jpg" "sample data")
+  ![sample data]("imgs/douban.jpg" "sample data")
 
 - 文件结构
 
@@ -1288,7 +1288,7 @@ NLP Datasets Collection, for self-use.
 - 数据样例
 
 企业工商信息
-![工商](E:/datasets/text/工商数据demo.png)
+![工商](imgs/gongshang_demo.png)
 
 
 - 文件结构
@@ -1306,13 +1306,7 @@ NLP Datasets Collection, for self-use.
   | +---README.md
   ```
 
-- 数据类型：
-
-| 数据名称     | 数据字段                                                     | 样本量 | 总量                      | 下载链接                                                     |
-| ------------ | ------------------------------------------------------------ | ------ | ------------------------- | ------------------------------------------------------------ |
-| 企业工商信息 | `名称`,`公司名称`,`公司介绍`,`工商`,`地址`,`工商注册id`,`成立时间`,`法人代表`,`注册资金`,`统一信用代码`,`网址` | 1万    | 50万 - (上市及中小型企业) | [下载](https://github.com/smoothnlp/FinancialDatasets/blob/master/data/SmoothNLP%E5%B7%A5%E5%95%86%E6%95%B0%E6%8D%AE%E9%9B%86%E6%A0%B7%E6%9C%AC10K.xlsx) |
-| 金融讯息新闻 | `title-新闻标题`,`content-新闻内容`,`pub_ts-发稿日期`        | 2万    | 210万                     | [下载](https://github.com/smoothnlp/FinancialDatasets/blob/master/data/SmoothNLP%E4%B8%93%E6%A0%8F%E8%B5%84%E8%AE%AF%E6%95%B0%E6%8D%AE%E9%9B%86%E6%A0%B7%E6%9C%AC10k.xlsx) |
-| 专栏资讯     | `title-新闻标题`,`content-新闻内容`,`pub_ts-发稿日期`        | 1万    | 58万                      | [下载](https://github.com/smoothnlp/FinancialDatasets/blob/master/data/SmoothNLP%E4%B8%93%E6%A0%8F%E8%B5%84%E8%AE%AF%E6%95%B0%E6%8D%AE%E9%9B%86%E6%A0%B7%E6%9C%AC10k.xlsx) |
+- 数据类型：工商数据，金融新闻
 
 - 用途：
   * Embedding (Word2Vec, Bert, 等)
@@ -2620,9 +2614,7 @@ NLP Datasets Collection, for self-use.
 
 - 数据样例
 
-  ```
-  ![sample data]("baike.png" "sample data")
-  ```
+  ![sample data]("imgs/baike.png" "sample data")
 
 - 文件结构
 
