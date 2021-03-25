@@ -3,9 +3,6 @@ NLP Datasets Collection, for self-use.
 
 
 
-
-</details>
-
 <details><summary>####  20news-bydate</summary>
 
 - 数据样例
@@ -63,10 +60,11 @@ NLP Datasets Collection, for self-use.
 - 文件结构
 
   ```
-  - ocr_xml
-  - parscit_xml
-  - pdf
-  - xml
+  |---+ACL_Anthology_Reference_Corpus
+	|- ocr_xml
+	|- parscit_xml
+	|- pdf
+	|- xml
   ```
 
 - 数据类型：学术文献pdf、XML
@@ -2352,13 +2350,7 @@ NLP Datasets Collection, for self-use.
 - 数据样例
 
   ```
-  xmlScript
-  	<?xml version="1.0" encoding="utf-8"?>
-  	<script>
-  	
-  	<scene id="1"><utterance uid="1-1"><speaker>Monica</speaker><content>There's nothing to tell! He's just some guy I work with!</content></utterance>
-  	<utterance uid="1-2"><speaker>Joey</speaker><content>Come on, you're going out with the guy! There's gotta be something wrong with him!</content></utterance>
-  	
+
   subtitles
   	1
   	00:00:02,480 --> 00:00:06,440

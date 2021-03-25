@@ -1,0 +1,239 @@
+/*========================================
+Default values are with a mobile-first perspective
+======================================
+
+Project: responsive mobile-first navigation bar;
+Author: Brandon Dail;
+Copyright: MIT;
+Max-usefullness: minimal;
+
+*/
+
+
+/*           Wrapper
+==============================*/
+
+#wrapper {
+    /*background-image: url('../yosemite.jpg');
+background-size: cover;*/
+    background: tomato;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+/*classes used to push the wrapper down when the navbar is expanded
+*/
+
+.open_wrapper {
+    top: 200px !important;
+}
+.closed_wrapper {
+    top: 0px !important;
+}
+/*      Navigation Bar
+==============================*/
+
+#m_nav_container {
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+    position: fixed;
+    display: none;
+    /*	opacity: 0;*/
+    top: 0px;
+}
+#m_nav_bar {
+    width: 80%;
+    margin: auto;
+}
+#m_nav_list {
+	list-style: none;
+    padding: 0;
+    margin: 1.5em 0 0 0;
+}
+.m_nav_item {
+    margin-top: 15px;
+}
+.m_nav_item a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1em;
+    -webkit-transition-duration: 0.5s;
+}
+.m_nav_item a:hover {
+    color: #ff9800;
+}
+/*classes for jQuery function*/
+
+.container_open {
+    position: fixed !important;
+    display: block;
+    height: 120px;
+}
+/*  Navigation Hamburger Icon
+==============================*/
+
+/*icon container*/
+
+#m_nav_menu {
+    position: fixed;
+    top: 30px;
+    right: 221px;
+    z-index: 3;
+    cursor: pointer;
+    padding: .5em;
+    background: rgba(130, 130, 130, 0.46);
+}
+/*class applied to create the lines*/
+
+.m_nav_ham {
+    width: 35px;
+    height: 5px;
+    background: #fff;
+    margin: 5px auto;
+}
+.m_nav_ham_1_open {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    margin-top: 15px;
+}
+.m_nav_ham_2_open {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    margin-top: -10px;
+}
+.m_nav_ham_3_open {
+    opacity: 0;
+}
+/*classes used to change the button's format based on jquery toggle
+In future releases this will be used to animate the m_nav_ham divs to form 
+an X*/
+
+.button_open {
+    background: #fff;
+    /*	-webkit-transform: rotate(45deg);*/
+}
+.button_closed {}
+/*      Header
+==============================*/
+
+#header {
+    width: 100%;
+    height: 700px;
+    /*background-image: url('../yosemite.jpg');
+	background-size: cover;*/
+    /*	background: #4787ff*/
+    float: left;
+    text-align: center;
+    margin-top: 0px;
+}
+/*#header*/
+
+/*      Sections
+==============================*/
+
+.main_sections {
+    width: 100%;
+    height: 1100px;
+    text-align: center;
+    margin-top: 0px;
+    float: left;
+}
+/*      Section 1
+==============================*/
+
+#section_1 {
+    background-color: #df32df;
+}
+/*      Section 2
+==============================*/
+
+#section_2 {
+    background-color: #47e3ff;
+}
+/*      Section 3
+==============================*/
+
+#section_3 {
+    background-color: #47ffbf;
+}
+#section_3 p, #section_3 h1 {
+    color: #333 !important;
+}
+/*      Section 4
+==============================*/
+
+#section_4 {
+    background-color: #6347ff;
+}
+/*      Section 5
+==============================*/
+
+#section_5 {
+    background-color: #ffbf47;
+}
+/*      Media Queries
+==============================*/
+
+/*Media query for all non-mobile devices*/
+
+@media screen and (min-width: 780px) {
+    /*Nav bar media queries!*/
+    #m_nav_container {
+        text-align: left;
+        height: 120px !important;
+    }
+    .m_nav_item {
+        display: inline;
+        line-height: 100px;
+        margin-right: 50px;
+    }
+    .m_nav_item a {
+        margin-top: 10px;
+        font-size: 1.2em;
+    }
+    #m_nav_item_1 {
+        margin-left: 5px;
+    }
+    /*wrapper media queries*/
+    .open_wrapper {
+        top: 130px !important;
+    }
+}
+/*Media query for larger, non-mobile devices*/
+
+@media screen and (min-width: 1150px) {
+    #m_nav_container {
+         text-align: center;
+		height: 125px !important;
+		box-shadow: 0 0 2px #000;
+    }
+
+
+	#m_nav_menu {
+		top: 37px;
+	}
+
+    .m_nav_item {
+        display: inline;
+        line-height: 70px;
+        margin-right: 80px;
+        padding-bottom: 10px
+    }
+    .m_nav_item a {
+        margin-top: 10px;
+		font-size: 1.2em;
+		font-weight: 600;
+    }
+    /*#toggle_m_nav{
+	display: none;
+}*/
+}
+/*
+Media query for mid-size non-mobile devices*/
