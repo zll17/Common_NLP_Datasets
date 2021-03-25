@@ -1,5 +1,5 @@
 # Common_NLP_Datasets
-NLP Datasets Collection Catelog, for self-use. A nice-looking HTML version can be browsed at my [blog](https://zll17.github.io/files/nlp_corpora/mycorpora.html).
+NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTML version for convenience, which can found at my [blog](https://zll17.github.io/files/nlp_corpora/mycorpora.html).
 
 
 
