@@ -704,7 +704,7 @@ NLP Datasets Collection, for self-use.
 
 - 数据样例
 
-  ![sample data]("imgs/dataexample.png" "sample data")
+  ![sample data](imgs/dataexample.png)
 
 - 文件结构
 
@@ -904,8 +904,8 @@ NLP Datasets Collection, for self-use.
 
 - 数据样例
 
-  ![sample data]("imgs/reading_excel.jpg" "sample data")
-  ![sample data]("imgs/movie_excel.jpg" "sample data")
+  ![sample data](imgs/reading_excel.jpg)
+  ![sample data](imgs/movie_excel.jpg)
 
 - 文件结构
 
@@ -941,7 +941,7 @@ NLP Datasets Collection, for self-use.
 
 - 数据样例
 
-  ![sample data]("imgs/douban.jpg" "sample data")
+  ![sample data](imgs/douban.jpg)
 
 - 文件结构
 
@@ -2566,7 +2566,7 @@ NLP Datasets Collection, for self-use.
 
 - 数据样例
 
-  ![sample data]("imgs/baike.png" "sample data")
+  ![sample data](imgs/baike.png)
 
 - 文件结构
 
