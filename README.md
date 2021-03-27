@@ -1,7 +1,9 @@
 # Common_NLP_Datasets
 NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTML version for convenience, which can found at my [blog](https://zll17.github.io/files/nlp_corpora/mycorpora.html).
 
-
+<p align="center">
+    <img src="assets/example.jpg" width="720"\>
+</p>
 
 <details><summary>####  20news-bydate</summary>
 
@@ -42,9 +44,10 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：文本摘要，关键词提取
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[20NewsGroup](http://qwone.com/~jason/20Newsgroups/) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
 
 
 </details>
@@ -54,7 +57,29 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 - 数据样例
 
   ```
-  __newId__12
+  <?xml version="1.0" encoding="UTF-8"?>
+  <algorithms version="110505">
+  <algorithm name="SectLabel" version="110505">
+  <variant no="0" confidence="0.000001">
+  <title confidence="0.9981805">
+  Revealing the Structure of Medical Dictations
+  with Conditional Random Fields
+  </title>
+  <author confidence="0.993397">
+  Jeremy Jancsary and Johannes Matiasek
+  </author>
+  <affiliation confidence="0.991453">
+  Austrian Research Institute for Artificial Intelligence
+  </affiliation>
+  <address confidence="0.957388">
+  A-1010 Vienna, Freyung 6/6
+  </address>
+  <email confidence="0.997756">
+  firstname.lastname@ofai.at
+  </email>
+  <author confidence="0.998736">
+  Harald Trost
+  </author>
   ```
 
 - 文件结构
@@ -71,13 +96,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：学术论文解析、OCR
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  aclImdb_v1</summary>
 
 - 数据样例
@@ -110,13 +136,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：情感分析
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  amazon_review_polarity_csv</summary>
 
 - 数据样例
@@ -140,13 +167,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：文本分类，情感分析
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  ancient_chinese</summary>
 
 - 数据样例
@@ -181,13 +209,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：文言文翻译
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  baike2018qa</summary>
 
 - 数据样例
@@ -214,13 +243,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：问答系统，文本分类
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  bert_poem</summary>
 
 - 数据样例
@@ -245,13 +275,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：诗词生成，文言文通用语料
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  books-master</summary>
 
 - 数据样例
@@ -278,13 +309,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：中文，英文通用语料
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  bytecup2018</summary>
 
 - 数据样例
@@ -314,13 +346,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：自动文摘
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  CA8词向量</summary>
 
 - 数据样例
@@ -354,13 +387,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  chat_corpus-master</summary>
 
 - 数据样例
@@ -394,13 +428,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：问答系统，聊天机器人
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  Chinese-NLP-Corpus-master</summary>
 
 - 数据样例
@@ -438,11 +473,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  ChineseSquad-master</summary>
 
 
@@ -506,11 +542,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[ChineseSquad](https://github.com/junzeng-pluto/ChineseSquad) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  cmrc2018-master</summary>
 
 - 数据样例
@@ -581,11 +618,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[cmrc2018](https://github.com/ymcui/cmrc2018) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  cmrc2019-master</summary>
 
 
@@ -652,11 +690,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[cmrc2019](https://github.com/ymcui/cmrc2019) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  cnews</summary>
 
 
@@ -707,13 +746,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：文本分类
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  DA_data</summary>
 
 
@@ -755,13 +795,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：对话
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  DAct</summary>
 
 - 数据样例
@@ -796,13 +837,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：文本分类，对话系统
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  daizhigev20-master</summary>
 
 - 数据样例
@@ -853,11 +895,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[daizhigev20](https://github.com/garychowcmu/daizhigev20) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  Douban_Movie_Short_Comments</summary>
 
 
@@ -883,13 +926,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：情感分析
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  DoubanConversaionCorpus</summary>
 
 
@@ -913,13 +957,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：文本分类
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  DouBanCrawls-master</summary>
 
 - 数据样例
@@ -953,11 +998,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[DouBanCrawls](https://github.com/SimonCqk/DouBanCrawls) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  DouBanSpider-master</summary>
 
 - 数据样例
@@ -985,11 +1031,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[DouBanSpider](https://github.com/lanbing510/DouBanSpider) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  DRCD 台达繁体阅读理解数据集-master</summary>
 
 - 数据样例
@@ -1059,11 +1106,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[DRCD](https://github.com/DRCKnowledgeTeam/DRCD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  dureader_preprocessed</summary>
 
 - 数据样例
@@ -1126,11 +1174,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[DuReader](https://github.com/baidu/DuReader) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  duzhen</summary>
 
 - 数据样例
@@ -1201,13 +1250,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：主旨概括，文档摘要
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  ECDICT-中英双解词典数据库master</summary>
 
 - 数据样例
@@ -1262,11 +1312,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[ECDICT](https://github.com/skywind3000/ECDICT) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  OpenSubtitles_EN_ZH</summary>
 
 
@@ -1305,11 +1356,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[OpenSubtitles-v2018](https://opus.nlpl.eu/OpenSubtitles-v2018.php) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  FinancialDatasets-master</summary>
 
 - 数据样例
@@ -1343,11 +1395,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[FinancialDatasets](https://github.com/smoothnlp/FinancialDatasets) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  glue_data</summary>
 
 - 数据样例
@@ -1432,12 +1485,13 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：GLUE
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 </details>
-
 <details><summary>####  GoogleNews-vectors-negative300</summary>
 
 - 数据样例
@@ -1461,12 +1515,13 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：词向量
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 </details>
-
 <details><summary>####  huawei_corpus</summary>
 
 - 数据样例
@@ -1550,12 +1605,13 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：对话系统
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 </details>
-
 <details><summary>####  IMDB_Movie_5K</summary>
 
 - 数据样例
@@ -1575,13 +1631,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：分类
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
 
 ----
-</details>
 
+
+</details>
 <details><summary>####  ACL_Anthology_Reference_Corpus</summary>
 
 - 数据样例
@@ -1603,13 +1660,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：学术论文解析、OCR
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  IMDB_Movie_5K</summary>
 
 - 数据样例
@@ -1629,13 +1687,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：情感分析、回归
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  Douban_Movie_10M</summary>
 
 - 数据样例
@@ -1662,13 +1721,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：情感分析、推荐系统、图网络、聚类
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  latex_src-hep-th-1992</summary>
 
 - 数据样例
@@ -1693,13 +1753,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：latex 源码分析，公式latex生成，引文分析
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  LCCC Chinese Conversation Corpus</summary>
 
 - 数据样例
@@ -1739,13 +1800,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：对话生成，TDT，主题建模，语言模型
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  news2016zh</summary>
 
 - 数据样例
@@ -1764,13 +1826,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：文本分类，文本聚类，文本摘要，主题建模，语言模型
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  NIPS-papers</summary>
 
 - 数据样例
@@ -1791,13 +1854,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：文本分类，作者消歧，文本摘要，文本聚类
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  Novel_Corpus</summary>
 
 - 数据样例
@@ -1835,11 +1899,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[NovelConversationCorpus](https://github.com/xinydev/NovelConversationCorpus) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  OpenSubtitles_EN_ZH</summary>
 
 - 数据样例
@@ -1902,11 +1967,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[OpenSubtitle OPUS](https://opus.nlpl.eu/OpenSubtitles-v2018.php) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  Chinese_chatbot_corpus</summary>
 
 - 数据样例
@@ -1974,11 +2040,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[Chinese_chatbot_corpus](https://github.com/codemayq/chinese_chatbot_corpus) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  Reuters</summary>
 
 - 数据样例
@@ -2020,11 +2087,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[The Reuters Dataset](https://martin-thoma.com/nlp-reuters/) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  Scripta-sinica (汉语古典文本数据库)</summary>
 
 - 数据样例
@@ -2097,11 +2165,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[scripta-sinica](https://github.com/mahavivo/scripta-sinica) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  SMSSpamCollection</summary>
 
 - 数据样例
@@ -2136,11 +2205,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[SMSSpam Collection](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  163_song_records</summary>
 
 - 数据样例
@@ -2192,11 +2262,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[网易云音乐](https://music.163.com/) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  AgNews</summary>
 
 - 数据样例
@@ -2231,11 +2302,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[AgNews](https://github.com/mhjabreel/CharCnn_Keras/tree/master/data/ag_news_csv) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  THUCNews-title</summary>
 
 - 数据样例
@@ -2275,11 +2347,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[Link](http://thuctc.thunlp.org/#%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E6%95%B0%E6%8D%AE%E9%9B%86THUCNews) （待考，数据集为子集）
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  Toutial-text-classification</summary>
 
 - 数据样例
@@ -2309,11 +2382,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[toutiao-text-classification-dataset](https://github.com/aceimnorstuvwxz/toutiao-text-classfication-dataset) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  translation2019_en-zh</summary>
 
 - 数据样例
@@ -2340,11 +2414,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus#5%E7%BF%BB%E8%AF%91%E8%AF%AD%E6%96%99translation2019zh) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  TV4Dialog</summary>
 
 - 数据样例
@@ -2384,11 +2459,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[TV4Dialog](https://github.com/zll17/TV4Dialog) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  WebQA (百度知道中文问答数据集)</summary>
 
 - 数据样例
@@ -2420,11 +2496,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[百度中文问答数据集（苏剑林清洗版）](https://kexue.fm/archives/4338) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  Weibo</summary>
 
 - 数据样例
@@ -2448,13 +2525,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：对话机器人
 
-- 来源：[Link](https://tbd.com) （待考）
+- 来源：[Link](TBD) （待考）
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  wiki_zh</summary>
 
 - 数据样例
@@ -2496,13 +2574,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：语言模型，主题建模
 
-- 来源：[Link](https://tbd.com) 参考：[提取中文维基百科正文](https://blog.csdn.net/dragonlk0/article/details/88325626)
+- 来源：[Link](TBD) 参考：[提取中文维基百科正文](https://blog.csdn.net/dragonlk0/article/details/88325626)
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  豆瓣800万影评数据集</summary>
 
 - 数据样例
@@ -2535,11 +2614,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[14万电影800万影评数据集](http://www.csuldw.com/2019/09/08/2019-09-08-moviedata-10m/) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  zhihu_webtext2019zh</summary>
 
 - 数据样例
@@ -2565,11 +2645,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus#4%E7%A4%BE%E5%8C%BA%E9%97%AE%E7%AD%94json%E7%89%88webtext2019zh410%E4%B8%87%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%A4%BE%E5%8C%BA%E9%97%AE%E7%AD%94%E9%80%82%E5%90%88%E8%AE%AD%E7%BB%83%E8%B6%85%E5%A4%A7%E6%A8%A1%E5%9E%8B) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  zhihu-question</summary>
 
 - 数据样例
@@ -2607,12 +2688,13 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：文本分类，问答，知识提取
 
-- 来源：[Link](https://tbd.com) （待考）
+- 来源：[Link](TBD) （待考）
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 </details>
-
 <details><summary>####  百科</summary>
 
 - 数据样例
@@ -2640,13 +2722,14 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：语言模型，主题模型
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  法研杯2020-阅读理解ydlj_small_data</summary>
 
 - 数据样例
@@ -2704,11 +2787,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[Github: CAIL2020](https://github.com/china-ai-law-challenge/CAIL2020) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  汉语古典文本数据库</summary>
 
 - 数据样例
@@ -2751,11 +2835,12 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 来源：[汉语古典文本数据库](https://github.com/mahavivo/scripta-sinica) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
+
+
 
 
 </details>
-
 <details><summary>####  人民日报1998</summary>
 
 - 数据样例
@@ -2789,7 +2874,7 @@ NLP Datasets Collection Catelog, for self-use. I also created a nice-looking HTM
 
 - 用途：词性标注，语言模型
 
-- 来源：[Link](https://tbd.com) 
+- 来源：[Link](TBD) 
 
-- 镜像：[Link](https://tbd.com)
+- 镜像：[Link](TBD)
 
